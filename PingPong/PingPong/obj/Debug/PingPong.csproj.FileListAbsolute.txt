@@ -1,0 +1,9 @@
+\\ads\schueler$\home\rakuttp28\visual studio 2013\Projects\PingPong\PingPong\bin\Debug\PingPong.exe.config
+\\ads\schueler$\home\rakuttp28\visual studio 2013\Projects\PingPong\PingPong\bin\Debug\PingPong.exe
+\\ads\schueler$\home\rakuttp28\visual studio 2013\Projects\PingPong\PingPong\bin\Debug\PingPong.pdb
+\\ads\schueler$\home\rakuttp28\visual studio 2013\Projects\PingPong\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+\\ads\schueler$\home\rakuttp28\visual studio 2013\Projects\PingPong\PingPong\obj\Debug\PingPong.PingPong.resources
+\\ads\schueler$\home\rakuttp28\visual studio 2013\Projects\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+\\ads\schueler$\home\rakuttp28\visual studio 2013\Projects\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.Cache
+\\ads\schueler$\home\rakuttp28\visual studio 2013\Projects\PingPong\PingPong\obj\Debug\PingPong.exe
+\\ads\schueler$\home\rakuttp28\visual studio 2013\Projects\PingPong\PingPong\obj\Debug\PingPong.pdb
